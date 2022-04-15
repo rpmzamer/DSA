@@ -10,7 +10,7 @@ public static void main(String[] args)
     int n1=scn.nextInt();
     int arr1[]=new int[n1];
     int arr2[]=new int[n2];
-    int result=new int[Math.max(n1,n2)]
+    int result=new int[Math.max(n1,n2)];
     for(int i=0;i<n1;i++)
     {
         arr1[i]=scn.nextInt();

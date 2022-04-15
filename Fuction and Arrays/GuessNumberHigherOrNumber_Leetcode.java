@@ -1,4 +1,4 @@
-public class GuessNumberHigherOrNumber_Leetcode {
+public class GuessNumberHigherOrNumber_Leetcode{
     public int guessNumber(int n)
     {
         int low=1,high=n,mid;
