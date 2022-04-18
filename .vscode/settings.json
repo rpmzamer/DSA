@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "Pattern",
         "Fuction and Arrays",
-        "2D Arrays"
+        "2D Arrays",
+        "String Dynamic and Dynamic Array"
     ]
 }
