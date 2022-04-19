@@ -16,11 +16,11 @@ public class RemovePrime{
 	}
 	public static void solution(ArrayList<Integer> al)
 	{
-		for(int i=al.size()-1;i>-1;i--)
+		for(int idx=al.size()-1;idx>-1;idx--)
 		{
-			if(isPrime(al.get(i))!=-1)
+			if(isPrime(al.get(idx))!=-1)
 			{
-				al.remove(i);
+				al.remove(idx);
 			}
 		}
 	}
