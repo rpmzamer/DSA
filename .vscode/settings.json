@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "String Dynamic and Dynamic Array",
         "Pattern",
         "Fuction and Arrays",
         "2D Arrays",
-        "String Dynamic and Dynamic Array"
+        "Getting Started"
     ]
 }
