@@ -1,4 +1,4 @@
-import java.util.*;
+5import java.util.*;
 
 public class Pattern16{
 
