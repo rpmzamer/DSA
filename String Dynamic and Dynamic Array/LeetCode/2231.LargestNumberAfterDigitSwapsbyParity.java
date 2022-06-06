@@ -1,6 +1,6 @@
 class Solution {
-    public int largestInteger(int num) {
-        StringBuilder sb=new StringBuilder(num+"");
+    public int largestInteger(int number) {
+        StringBuilder sb=new StringBuilder(number+"");
         for(int i=0;i<sb.length();i++)
         {
             int maxIdx=i;
